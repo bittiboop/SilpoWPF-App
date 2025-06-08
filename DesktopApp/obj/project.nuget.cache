@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9AVc7jzSKSQ=",
+  "dgSpecHash": "1eUH+Ti/Fis=",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\materialdesigncolors\\5.2.2-ci998\\materialdesigncolors.5.2.2-ci998.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\materialdesignthemes\\5.2.2-ci998\\materialdesignthemes.5.2.2-ci998.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {}
+    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {
+    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
-        "projectName": "DesktopApp",
-        "projectPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
+        "projectName": "SupabaseService",
+        "projectPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,12 +42,12 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
-            "MaterialDesignThemes": {
+            "Supabase": {
               "target": "Package",
-              "version": "[5.2.2-ci998, )"
+              "version": "[1.1.1, )"
             }
           },
           "imports": [
@@ -64,9 +64,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"

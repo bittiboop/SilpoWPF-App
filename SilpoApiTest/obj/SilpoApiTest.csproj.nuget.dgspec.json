@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {}
+    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SilpoApiTest\\SilpoApiTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {
+    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SilpoApiTest\\SilpoApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
-        "projectName": "DesktopApp",
-        "projectPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SilpoApiTest\\SilpoApiTest.csproj",
+        "projectName": "SilpoApiTest",
+        "projectPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SilpoApiTest\\SilpoApiTest.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SilpoApiTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,14 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "MaterialDesignThemes": {
-              "target": "Package",
-              "version": "[5.2.2-ci998, )"
-            }
-          },
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -64,9 +58,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
