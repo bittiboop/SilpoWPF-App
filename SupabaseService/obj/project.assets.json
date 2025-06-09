@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
       "projectName": "SupabaseService",
-      "projectPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
+      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\SupabaseService\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

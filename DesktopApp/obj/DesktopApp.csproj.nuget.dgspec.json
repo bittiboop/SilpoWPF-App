@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {}
+    "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {
+    "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
         "projectName": "DesktopApp",
-        "projectPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
+        "projectPath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\DesktopApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

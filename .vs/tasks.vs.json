@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-image_625473b3d86b55.60471166",
+      "appliesTo": "DesktopApp/Assets/Images/image_625473b3d86b55.60471166.png",
+      "type": "launch"
+    }
+  ]
+}

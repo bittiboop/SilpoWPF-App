@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1eUH+Ti/Fis=",
+  "dgSpecHash": "f+RhDpB8jRE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\RiderProjects\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\DesktopApp\\DesktopApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\materialdesigncolors\\5.2.2-ci998\\materialdesigncolors.5.2.2-ci998.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\materialdesignthemes\\5.2.2-ci998\\materialdesignthemes.5.2.2-ci998.nupkg.sha512",

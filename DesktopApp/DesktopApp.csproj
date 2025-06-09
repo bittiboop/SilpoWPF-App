@@ -9,6 +9,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <None Remove="Assets\Images\image_625473b3d86b55.60471166.png" />
+    </ItemGroup>
+
+    <ItemGroup>
       <Page Update="Assets\Fonts\Manrope\Fonts.xaml">
         <Generator>MSBuild:Compile</Generator>
       </Page>
@@ -20,7 +24,10 @@
 
     <ItemGroup>
       <Folder Include="Assets\Icons\" />
-      <Folder Include="Assets\Images\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <SplashScreen Include="Assets\Images\image_625473b3d86b55.60471166.png" />
     </ItemGroup>
 
 </Project>
