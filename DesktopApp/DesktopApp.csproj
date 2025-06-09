@@ -15,12 +15,12 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Assets\Icons\" />
-      <Folder Include="Assets\Images\" />
+      <PackageReference Include="MaterialDesignThemes" Version="5.2.2-ci998" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="MaterialDesignThemes" Version="5.2.2-ci998" />
+      <Folder Include="Assets\Icons\" />
+      <Folder Include="Assets\Images\" />
     </ItemGroup>
 
 </Project>
