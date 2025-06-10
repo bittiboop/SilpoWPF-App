@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj": {}
+    "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj": {
+    "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
+        "projectUniqueName": "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
         "projectName": "SupabaseService",
-        "projectPath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SupabaseService\\obj\\",
+        "projectPath": "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\SupabaseService\\SupabaseService.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\SupabaseService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +49,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Supabase": {
               "target": "Package",
               "version": "[1.1.1, )"
@@ -66,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\student\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

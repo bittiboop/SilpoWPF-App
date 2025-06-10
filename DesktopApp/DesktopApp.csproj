@@ -20,6 +20,8 @@
 
     <ItemGroup>
       <PackageReference Include="MaterialDesignThemes" Version="5.2.2-ci998" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.0-preview.5.25277.114" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="10.0.0-preview.5.25277.114" />
     </ItemGroup>
 
     <ItemGroup>

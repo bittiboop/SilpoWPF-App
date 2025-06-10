@@ -1,4 +1,4 @@
-﻿namespace DesktopApp;
+﻿namespace DesktopApp.Models;
 
 public class CartItemModel
 {
@@ -9,5 +9,6 @@ public class CartItemModel
     public int ShoppingCartModelId { get; set; }
     public ShoppingCartModel ShoppingCart { get; set; }
     public ProductModel Product { get; set; }
+    
     
 }

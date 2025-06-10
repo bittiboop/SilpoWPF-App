@@ -1,4 +1,4 @@
-﻿namespace DesktopApp;
+﻿namespace DesktopApp.Models;
 
 public class OrderItemModel
 {

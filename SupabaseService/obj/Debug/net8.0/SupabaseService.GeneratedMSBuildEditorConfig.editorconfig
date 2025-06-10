@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SupabaseService
-build_property.ProjectDir = C:\Users\DELL\Source\Repos\bittiboop\SilpoWPF-App\SupabaseService\
+build_property.ProjectDir = C:\Users\student\RiderProjects\SilpoWPF-App\SupabaseService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

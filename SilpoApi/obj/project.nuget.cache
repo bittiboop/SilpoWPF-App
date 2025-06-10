@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "y+057J2zSVA=",
+  "dgSpecHash": "uWzrzpfJl2Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\bittiboop\\SilpoWPF-App\\SilpoApi\\SilpoApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\student\\RiderProjects\\SilpoWPF-App\\SilpoApi\\SilpoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-preview.5.25277.114\\microsoft.extensions.dependencyinjection.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.5.25277.114\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0-preview.5.25277.114\\microsoft.extensions.logging.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-preview.5.25277.114\\microsoft.extensions.logging.abstractions.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.options\\10.0.0-preview.5.25277.114\\microsoft.extensions.options.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.5.25277.114\\microsoft.extensions.primitives.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-preview.5.25277.114\\system.diagnostics.diagnosticsource.10.0.0-preview.5.25277.114.nupkg.sha512"
+  ],
   "logs": []
 }
